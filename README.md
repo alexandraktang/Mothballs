@@ -3,9 +3,13 @@
 Written, coded, and designed by Alexandra Tang<br>
 Art and sound-editing by Jessica Chu
 
+-------------------------------
+
 Even most seemingly insignificant of things may carry the heaviest of memories. Mothballs explores the concept of losing and finding, both physically and emotionally. This game will let you delve into our protagonist's memories and piece together the events that have led her to where we begin, sitting in a tiny, dark closet (how ironic).
 
-This game was created for my capstone project for Macaulay Honors College, and designed during ARTS 172 at Queens College for my final project.
+<i>Note: This game was created for my capstone project for Macaulay Honors College, and designed during ARTS 172 at Queens College for my final project.</i>
+
+-------------------------------
 
 Design Documents:
  > Original designs: <a href="https://gamedesignfall2018.wordpress.com/2018/11/26/final-project-update-mothballs/">here!</a><br>
