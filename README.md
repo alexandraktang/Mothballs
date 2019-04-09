@@ -19,7 +19,7 @@ Art and sound-editing by Jessica Chu (chuminder)
 
 I wanted to make a game that was personal to me and that, despite the gravity of the topic, offered some hope and light. I wanted to make a game that I wish I'd had when I was growing up. I hope this game will be that for the people who find themselves in the position I was in then.
 
-<em><strong>Note:</strong> This game was created for my capstone project for Macaulay Honors College, and designed during ARTS 172 (Game Design) at Queens College for my final project.</em>
+<em><strong>Note:</strong> This game was created for my capstone project for Macaulay Honors College and designed during ARTS 172 (Game Design) at Queens College for my final project.</em>
 
 -------------------------------
 
