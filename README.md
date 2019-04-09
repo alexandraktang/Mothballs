@@ -1,19 +1,18 @@
 <strong>tw homophobia, internalized homophobia, body image, sexism, guilt</strong>
 
-Play it on <a href="https://floraltine.itch.io/mothballs">itch.io</a>!
-
--------------------------------
 
 <em>Even most seemingly insignificant of things may carry the heaviest of memories. Mothballs explores the concept of losing and finding, both physically and emotionally. Delve into our protagonist's memories and piece together the events that have led her to where we begin, sitting in a tiny, dark closet (how ironic).</em>
 
-<strong><em>5,068 words, five characters, two endings!</em></strong>
-<em>Play through the game twice to learn the full story and get both endings!</em>
+<strong><em>5,068 words, five characters, two endings!</em></strong><br>
+<em>Play through the game twice to learn the full story and get both endings!</em><br>
+
+Play it now on <a href="https://floraltine.itch.io/mothballs">itch.io</a>!
 
 -------------------------------
 
 <strong>Mothballs</strong> is a visual novel about navigating the intersection between being Asian-American and LGBTQ+. Our protagonist is a Vietnamese lesbian named Juliet, who is struggling to come to terms with her sexuality, among other things. Through finding some seemingly-insignificant objects, Juliet slowly recalls the memories that have caused her to seek solace in the first place.
 
-Written, coded, and designed by Alexandra Tang (floraltine)
+Written, coded, and designed by Alexandra Tang (floraltine)<br>
 Art and sound-editing by Jessica Chu (chuminder)
 
 -------------------------------
